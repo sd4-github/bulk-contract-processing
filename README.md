@@ -129,3 +129,7 @@ Covers: ZIP validation and the 1,000-doc / 15 MB constraints, path-traversal
 guards, extraction + finding creation, idempotency and retries, partial/failed
 batches, the review workflow, status consistency, the background worker, and
 stuck-document recovery.
+
+## Built With
+
+Made with [OpenCode](https://opencode.ai).
